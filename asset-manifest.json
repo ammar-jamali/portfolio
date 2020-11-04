@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ammar-jamali/portfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ammar-jamali/portfolio/static/js/main.e930abd1.chunk.js",
+    "main.js.map": "/ammar-jamali/portfolio/static/js/main.e930abd1.chunk.js.map",
+    "runtime-main.js": "/ammar-jamali/portfolio/static/js/runtime-main.32f8da53.js",
+    "runtime-main.js.map": "/ammar-jamali/portfolio/static/js/runtime-main.32f8da53.js.map",
+    "static/js/2.925ffdb0.chunk.js": "/ammar-jamali/portfolio/static/js/2.925ffdb0.chunk.js",
+    "static/js/2.925ffdb0.chunk.js.map": "/ammar-jamali/portfolio/static/js/2.925ffdb0.chunk.js.map",
+    "static/js/3.ff64b61e.chunk.js": "/ammar-jamali/portfolio/static/js/3.ff64b61e.chunk.js",
+    "static/js/3.ff64b61e.chunk.js.map": "/ammar-jamali/portfolio/static/js/3.ff64b61e.chunk.js.map",
+    "index.html": "/ammar-jamali/portfolio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ammar-jamali/portfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.925ffdb0.chunk.js.LICENSE.txt": "/ammar-jamali/portfolio/static/js/2.925ffdb0.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ammar-jamali/portfolio/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f8da53.js",
+    "static/js/2.925ffdb0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e930abd1.chunk.js"
+  ]
+}
